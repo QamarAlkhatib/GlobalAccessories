@@ -13,5 +13,5 @@ document.write('<h2>' + option + alert("Which type?, I like Tea with mint")+ '</
 console.log(option);
 
 let act = prompt("which activity do you prefer, eating Or sleeping?");
-document.write('<h2>' + act + alert("I know, I like Both Too")+ '</h2>');
+document.write('<h2>' + act + '</h2>' + alert("I know, I like Both Too"));
 console.log(act)
